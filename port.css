@@ -1,0 +1,84 @@
+
+nav{
+   background: #37ad9c ;
+    font-weight: 500;
+}
+
+div {
+    display: block;
+}
+
+.page-footer{
+    background: #37ad9c;
+}
+
+
+#about {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+
+#intro {
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.main{
+    
+    display: block;
+    margin: auto;
+    width: 1100px;
+    margin-top: 20px;
+    
+}
+
+
+.card-content-main {
+    text-align: center;
+    color: rgb(65, 88, 77);
+}
+
+.medium{
+    width: 460px;
+    height: 700px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.projects {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    color: rgb(255, 255, 255);
+    
+}
+a {
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.card-action {
+    text-align: center;
+    
+    
+}
+.card-content {
+    font-size:33px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(65, 88, 77);
+    
+}
+.cardsSection {
+    margin-top: 40px;
+}
+
+.pr {
+    background-color: #37ad9c;
+    margin-bottom: 40px;
+}
+.grey-text {
+    font-size: 20px;
+    
+}
